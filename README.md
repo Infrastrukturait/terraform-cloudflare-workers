@@ -126,7 +126,6 @@ module "worker_api" {
 
 <!-- END_TF_DOCS -->
 
-
 <!-- references -->
 
 [repo_link]: https://github.com/Infrastrukturait/terraform-cloudflare-workers
